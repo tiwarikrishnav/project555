@@ -1,0 +1,71 @@
+
+.navbar{
+    background: #00000082 !important
+}
+.weblogo{
+    width: 65px;
+}
+.moblogo{
+    display: none;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: #fff!important;
+    font-weight: 100;
+    font-size: 16px;
+}
+.b{
+    word-spacing: 1px;
+    line-height:35px;
+    letter-spacing: 1px;
+    text-align: justifys;
+}
+.img123{
+    width: 80%;
+}
+.c{
+    background:url(https://pn-paul.netlify.app/image/ffback2.png);
+    width: 100%;
+    margin-top: 72px;
+    height: 400px;
+}
+.d{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    color: white;
+    text-align: center;
+}
+.e{
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+}
+.our{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px
+}
+.ex{
+    paddiing: top 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+
+}
+.f{
+    letter-spacing: 1px;
+    padding-top: 50px;
+    font-family: prague;
+    color:white;
+    text-align: center;
+}
